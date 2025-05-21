@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdullahatef77
-- 👀 I’m interested in AI , machine learning and devloping apps
-- 🌱 I’m currently learning dart and python
+- 👀 I’m interested in AI , machine learning and Robotics
+- 🌱 I’m currently learning DL , GenAI and LLMs
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me on "beboten6@gmail.com"
 
